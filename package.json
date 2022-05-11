@@ -1,0 +1,27 @@
+{
+  "name": "cricketstars_name",
+  "version": "1.0.0",
+  "description": "Get random cricketer names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/santoshkumart21/cricketstars-names.git"
+  },
+  "keywords": [
+    "random",
+    "cricket",
+    "satrs"
+  ],
+  "author": "santosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santoshkumart21/cricketstars-names/issues"
+  },
+  "homepage": "https://github.com/santoshkumart21/cricketstars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
